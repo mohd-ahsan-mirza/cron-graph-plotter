@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eec641f3072ad85cfd24ba95b44cba13",
+    "revision": "abbbac3c7c3c33773b6d59f79388b5c8",
     "url": "/cron-graph-plotter/index.html"
   },
   {
-    "revision": "f7053136067542e0213e",
+    "revision": "c9daae433fce66410e2e",
     "url": "/cron-graph-plotter/static/css/main.2cce8147.chunk.css"
   },
   {
-    "revision": "cd9638e3b482256738a2",
-    "url": "/cron-graph-plotter/static/js/2.5fb623e6.chunk.js"
+    "revision": "e90a97189e9a27592376",
+    "url": "/cron-graph-plotter/static/js/2.3f2e7bdc.chunk.js"
   },
   {
-    "revision": "f7053136067542e0213e",
-    "url": "/cron-graph-plotter/static/js/main.4d44f5b5.chunk.js"
+    "revision": "c9daae433fce66410e2e",
+    "url": "/cron-graph-plotter/static/js/main.c7a38731.chunk.js"
   },
   {
     "revision": "613fd433871077b57fad",
