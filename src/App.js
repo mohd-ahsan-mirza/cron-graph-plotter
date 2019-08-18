@@ -1,26 +1,45 @@
-import React from 'react';
+import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Cron from './components/Cron';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+
+  constructor(props){
+  	super(props);
+  	this.header = <div className="row border-bottom"><h1 className="main-header">Cron Plotter - Ahsan Mirza</h1></div>
+  	this.initializeComponents();
+  }
+
+  initializeComponents() {
+  	this.components = [];
+		this.components['Cron'] = {renderID:<Cron />}
+  }
+
+  renderComponent(componentID) {
+  	return	<div className="row">
+					<div className="col-lg-12 col-md-12 col-sm-12 text-center mt-3 mb-3">
+						{this.components[componentID].title}
+        			</div>
+        			<div className="col-lg-12 col-md-12 col-sm-12 border-top border-bottom">
+        				{this.components[componentID].renderID}
+        			</div>
+        		</div>
+	}
+	
+  render() {
+    return (
+      	<div className="container">
+					{this.header}
+					{this.renderComponent('Cron')}
+					<footer className="page-footer font-small blue">
+  					<div className="footer-copyright text-center py-3">© 2019 Copyright:
+    					<a href="http://ahsanmirza.com"> Ahsan mirza</a>
+  					</div>
+					</footer>
+      	</div>
+    );
+  }
 }
 
 export default App;
