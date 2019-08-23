@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "abbbac3c7c3c33773b6d59f79388b5c8",
+    "revision": "e0e24001e6b994a6111c8e3c239ad1b7",
     "url": "/cron-graph-plotter/index.html"
   },
   {
-    "revision": "c9daae433fce66410e2e",
+    "revision": "2b7c7d57a5785de8a7ee",
     "url": "/cron-graph-plotter/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cron-graph-plotter/static/js/2.3f2e7bdc.chunk.js"
   },
   {
-    "revision": "c9daae433fce66410e2e",
-    "url": "/cron-graph-plotter/static/js/main.c7a38731.chunk.js"
+    "revision": "2b7c7d57a5785de8a7ee",
+    "url": "/cron-graph-plotter/static/js/main.c7ee1206.chunk.js"
   },
   {
     "revision": "613fd433871077b57fad",
