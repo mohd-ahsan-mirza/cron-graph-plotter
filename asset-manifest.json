@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/cron-graph-plotter/static/css/main.2cce8147.chunk.css",
-    "main.js": "/cron-graph-plotter/static/js/main.c7ee1206.chunk.js",
-    "main.js.map": "/cron-graph-plotter/static/js/main.c7ee1206.chunk.js.map",
+    "main.js": "/cron-graph-plotter/static/js/main.0bdee9ce.chunk.js",
+    "main.js.map": "/cron-graph-plotter/static/js/main.0bdee9ce.chunk.js.map",
     "runtime~main.js": "/cron-graph-plotter/static/js/runtime~main.6a5b6bf5.js",
     "runtime~main.js.map": "/cron-graph-plotter/static/js/runtime~main.6a5b6bf5.js.map",
-    "static/js/2.3f2e7bdc.chunk.js": "/cron-graph-plotter/static/js/2.3f2e7bdc.chunk.js",
-    "static/js/2.3f2e7bdc.chunk.js.map": "/cron-graph-plotter/static/js/2.3f2e7bdc.chunk.js.map",
+    "static/css/2.266e55a5.chunk.css": "/cron-graph-plotter/static/css/2.266e55a5.chunk.css",
+    "static/js/2.e00092f9.chunk.js": "/cron-graph-plotter/static/js/2.e00092f9.chunk.js",
+    "static/js/2.e00092f9.chunk.js.map": "/cron-graph-plotter/static/js/2.e00092f9.chunk.js.map",
     "index.html": "/cron-graph-plotter/index.html",
-    "precache-manifest.e55d21919c77d109a63e347b4c981834.js": "/cron-graph-plotter/precache-manifest.e55d21919c77d109a63e347b4c981834.js",
+    "precache-manifest.873a3b7ac0dc6cbba44212201cd38320.js": "/cron-graph-plotter/precache-manifest.873a3b7ac0dc6cbba44212201cd38320.js",
     "service-worker.js": "/cron-graph-plotter/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/cron-graph-plotter/static/css/2.266e55a5.chunk.css.map",
     "static/css/main.2cce8147.chunk.css.map": "/cron-graph-plotter/static/css/main.2cce8147.chunk.css.map",
     "static/media/logo.svg": "/cron-graph-plotter/static/media/logo.5d5d9eef.svg"
   }
