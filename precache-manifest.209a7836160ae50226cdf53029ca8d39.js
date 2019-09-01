@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df9d3639cd05b84a1c7816650e2f0ab3",
+    "revision": "389e94fabe142e188b68f186fbc980dd",
     "url": "/cron-graph-plotter/index.html"
   },
   {
-    "revision": "9e6eb3bc29702323ec01",
-    "url": "/cron-graph-plotter/static/css/2.266e55a5.chunk.css"
+    "revision": "053dcf28163302513816",
+    "url": "/cron-graph-plotter/static/css/2.f2987ecf.chunk.css"
   },
   {
-    "revision": "55fbaaf0f8a79ff58aef",
+    "revision": "6dd6a1625a08512858cc",
     "url": "/cron-graph-plotter/static/css/main.2cce8147.chunk.css"
   },
   {
-    "revision": "9e6eb3bc29702323ec01",
-    "url": "/cron-graph-plotter/static/js/2.e00092f9.chunk.js"
+    "revision": "053dcf28163302513816",
+    "url": "/cron-graph-plotter/static/js/2.964361a9.chunk.js"
   },
   {
-    "revision": "55fbaaf0f8a79ff58aef",
-    "url": "/cron-graph-plotter/static/js/main.0bdee9ce.chunk.js"
+    "revision": "6dd6a1625a08512858cc",
+    "url": "/cron-graph-plotter/static/js/main.7c235b74.chunk.js"
   },
   {
     "revision": "613fd433871077b57fad",
