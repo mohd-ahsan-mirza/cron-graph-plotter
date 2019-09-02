@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cron-graph-plotter/precache-manifest.2bba9ea2d32e9cf7c61254fb38ee42be.js"
+  "/cron-graph-plotter/precache-manifest.af8d99da6894e7ac9578cb7cc041f1ae.js"
 );
 
 self.addEventListener('message', (event) => {
